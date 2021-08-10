@@ -1,5 +1,5 @@
 {
-	"name": "zumba/cakephp",
+	"name": "cakephp/cakephp",
 	"description": "The CakePHP framework",
 	"type": "library",
 	"keywords": ["framework"],
